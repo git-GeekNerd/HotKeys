@@ -40,7 +40,7 @@ Enjoy the convenience of quick access to hotkeys and boost your productivity!
 > Link to the file: [(click here)](./HotKeys.md)
 ___
 
-### If you have any questions or suggestions, you can reach me via email at: `CodexCodeGeek@outlook.com.`
+### If you have any questions or suggestions, you can reach me via email at: `CodexCodeGeek@outlook.com`
 ___
 ## License
 
