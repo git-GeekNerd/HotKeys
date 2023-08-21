@@ -38,9 +38,21 @@ __Привет! Этот проект представляет собой спр
 > Ссылка на файл: [(тык)](./HotKeys_ru.md)
 
 ___
+### Если у вас есть какие-либо вопросы или предложения, вы можете связаться со мной
 
-### Если у вас есть какие-либо вопросы или предложения, вы можете связаться со мной по электронной почте: `CodexCodeGeek@outlook.com`
-___
+<div align="center">
+<!--- --------------------------Contact and icons---------------------------------------- -->
+  <a href="mailto:CodexCodeGeek@outlook.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discord.com/users/1139606020935667712"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" ></a>
+  <!-- Добавлены иконки для дополнительных контактов -->
+  <a href="https://www.facebook.com/61550483339339"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" /></a>
+  <a href="https://twitter.com/GitKerMerBer"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" /></a>
+  <a href="https://t.me/NOTWORKING1324241"><img src="https://img.shields.io/badge/Telegram-d5d5d5?style=for-the-badge&logo=telegram&logoColor=0A0209" /></a>
+</div>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## Лицензия 
 
 Этот проект распространяется под лицензией `MIT`. 
