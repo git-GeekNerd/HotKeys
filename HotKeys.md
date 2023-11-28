@@ -123,7 +123,7 @@ ___
 | `Ctrl` + `shift` `X`              | Cut        |
 | `Ctrl` + `shift` `C`              | Copy       |
 | `Ctrl` + `shift` `V`              | Paste      |
-| `Ctrl` + `shitft` `Z`              | Undo       |
+| `Ctrl` + `shift` `Z`              | Undo       |
 | `Ctrl` + `shift` `S`              | Save       |
 | `Ctrl` + `shift` `A`              | Select All |
 | `Ctrl` + `shift` `F`              | Find       |
