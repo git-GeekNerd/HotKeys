@@ -47,7 +47,7 @@ ___
   <!-- Добавлены иконки для дополнительных контактов -->
   <a href="https://www.facebook.com/61550483339339"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" /></a>
   <a href="https://twitter.com/GitKerMerBer"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" /></a>
-  <a href="https://t.me/NOTWORKING1324241"><img src="https://img.shields.io/badge/Telegram-d5d5d5?style=for-the-badge&logo=telegram&logoColor=0A0209" /></a>
+  <!-- <a href="https://t.me/NOTWORKING1324241"><img src="https://img.shields.io/badge/Telegram-d5d5d5?style=for-the-badge&logo=telegram&logoColor=0A0209" /></a> -->
 </div>
 <br>
 
